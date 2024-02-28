@@ -1,6 +1,6 @@
 # accountantapp
 
-A new Flutter project.
+This application purposes Hive Database usage and simplyfing. 
 
 ## Getting Started
 
